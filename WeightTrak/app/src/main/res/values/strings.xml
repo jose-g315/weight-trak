@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weight Trak</string>
+    <string name="welcome_to_weight_trak">Welcome to Weight Trak!</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="delete">Delete</string>
+    <string name="weight">Weight</string>
+    <string name="date">Date</string>
+    <string name="enter_goal_weight">Enter Goal Weight: </string>
+    <string name="set">Set</string>
+    <string name="add_weight_entry">Add Weight Entry</string>
+    <string name="add_delete_weight_entry">Add/Delete Weight Entry</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="entry_id">Entry ID:</string>
+    <string name="enter_phone_number_to_allow_sms_notifications">Enter Phone Number to Allow SMS Notifications.</string>
+    <string name="allow">Allow</string>
+    <string name="stop">Stop</string>
+    <string name="press_to_stop_sms_notifications">Press To Stop SMS Notifications.</string>
+    <string name="notifications">Notifications</string>
+    <string name="goal_weight">Goal Weight:</string>
+    <string name="set_goal_weight">Set Goal Weight</string>
+    <string name="confirm_changes">Confirm Changes</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="lbs">Lbs</string>
+    <string name="lbs2">Lbs</string>
+</resources>
